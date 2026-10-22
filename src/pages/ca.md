@@ -10,7 +10,7 @@ ordre: 4
 
 **Président** : Maurice ALLETZ
 
-Vice-Présidents
+**Vice-Présidents**
 
 Serge BRISCADIEU
 
@@ -22,7 +22,9 @@ Christian ELORZA
 
 **Trésorier** : André MAILHE
 
-**Membres** : Henri BARBE
+**Membres** :
+
+ Henri BARBE
 
 Jean-Claude BAURENS
 
