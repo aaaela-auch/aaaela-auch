@@ -1,0 +1,6 @@
+---
+layout: base.njk
+---
+<section class="hero" style="background-image:url({{ site.hero_image }})"><div class="hero-in"><h1>{{ site.hero_titre }}</h1><p>{{ site.hero_sous_titre }}</p><a class="cta" href="/adhesion.html">{{ site.hero_bouton }}</a></div></section>
+<main class="wrap content">{% if site.banniere_texte %}<div class="next"><span>{{ site.banniere_titre }}</span>{{ site.banniere_texte }}</div>{% endif %}<blockquote class="quote">{{ content | safe }}</blockquote>
+<h2 class="sec">Actualités</h2><div class="cards">{% for c in actualites.cartes %}<a class="card" href="/{{ c.lien }}"><div class="thumb" style="background-image:url({{ c.image }})"><span class="tag">{{ c.etiquette }}</span></div><div class="ct">{{ c.titre }}</div></a>{% endfor %}</div><p class="center"><a class="more" href="/actualites.html">Voir toutes les actualités</a></p></main>

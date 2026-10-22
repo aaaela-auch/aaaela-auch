@@ -1,0 +1,318 @@
+locale: fr
+backend:
+  name: github
+  repo: aaaela-auch/aaaela-auch
+  branch: main
+  commit_messages:
+    update: Mise à jour de {{slug}}
+    uploadMedia: Ajout de la photo {{path}}
+local_backend: true
+site_url: https://aaaela.netlify.app
+display_url: https://aaaela.netlify.app
+logo_url: /img/logoaaaela.jpg
+media_folder: src/img/uploads
+public_folder: /img/uploads
+collections:
+- name: pages
+  label: 📄 Pages du site
+  description: Cliquez sur une page pour modifier son texte et ses images.
+  editor:
+    preview: false
+  files:
+  - name: index
+    label: Accueil – texte « Le Lycée »
+    file: src/pages/index.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: association
+    label: L'Association
+    file: src/pages/association.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: publications
+    label: Publications
+    file: src/pages/publications.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: presidents
+    label: Anciens Présidents
+    file: src/pages/presidents.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: ca
+    label: CA
+    file: src/pages/ca.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: statuts
+    label: Les Statuts
+    file: src/pages/statuts.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: photos
+    label: Photos (liens des albums)
+    file: src/pages/photos.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: afficher_galerie
+      label: Afficher la galerie d'archives sous les albums
+      widget: boolean
+      default: true
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: evenements
+    label: Evènements
+    file: src/pages/evenements.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: actualites
+    label: Actualités
+    file: src/pages/actualites.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+  - name: adhesion
+    label: CONTACTEZ-NOUS
+    file: src/pages/adhesion.md
+    fields:
+    - name: title
+      label: Titre de la page (affiché en haut)
+      widget: string
+    - name: permalink
+      widget: hidden
+    - name: layout
+      widget: hidden
+    - name: ordre
+      widget: hidden
+    - name: body
+      label: Contenu de la page
+      widget: markdown
+      hint: Utilisez la barre d’outils pour mettre en gras, ajouter un titre, un lien
+        ou une image.
+- name: accueil
+  label: 🏠 Page d'accueil
+  editor:
+    preview: false
+  files:
+  - name: site
+    label: Bandeau, grande photo et pied de page
+    file: src/_data/site.yml
+    fields:
+    - name: banniere_titre
+      label: Bandeau « Prochain événement » – petit titre
+      widget: string
+    - name: banniere_texte
+      label: Bandeau « Prochain événement » – texte (laisser vide pour masquer)
+      widget: text
+      required: false
+    - name: hero_image
+      label: Grande photo d'accueil
+      widget: image
+    - name: hero_titre
+      label: Grand titre sur la photo
+      widget: string
+    - name: hero_sous_titre
+      label: Sous-titre sur la photo
+      widget: string
+    - name: hero_bouton
+      label: Texte du bouton (mène à CONTACTEZ-NOUS)
+      widget: string
+    - name: footer_adresse
+      label: Adresse (pied de page)
+      widget: text
+    - name: emails
+      label: Adresses e-mail (pied de page)
+      widget: list
+      field:
+        name: email
+        label: E-mail
+        widget: string
+  - name: actualites
+    label: Cartes « Actualités » de l'accueil
+    file: src/_data/actualites.yml
+    fields:
+    - name: cartes
+      label: Cartes
+      label_singular: carte
+      widget: list
+      summary: '{{fields.titre}}'
+      fields:
+      - name: titre
+        label: Titre de la carte
+        widget: string
+      - name: etiquette
+        label: 'Étiquette verte (ex. : Assemblée générale)'
+        widget: string
+      - name: image
+        label: Photo
+        widget: image
+      - name: lien
+        label: Page ouverte au clic
+        widget: select
+        options:
+        - label: Accueil – texte « Le Lycée »
+          value: index.html
+        - label: L'Association
+          value: association.html
+        - label: Publications
+          value: publications.html
+        - label: Anciens Présidents
+          value: presidents.html
+        - label: CA
+          value: ca.html
+        - label: Les Statuts
+          value: statuts.html
+        - label: Photos (liens des albums)
+          value: photos.html
+        - label: Evènements
+          value: evenements.html
+        - label: Actualités
+          value: actualites.html
+        - label: CONTACTEZ-NOUS
+          value: adhesion.html
+  format: yml
+- name: galerie
+  label: 📷 Galerie d'archives (page Photos)
+  editor:
+    preview: false
+  files:
+  - name: archives
+    label: Galerie d'archives
+    file: src/_data/galerie.yml
+    fields:
+    - name: titre
+      label: Titre de la galerie
+      widget: string
+    - name: intro
+      label: Texte d'introduction
+      widget: text
+    - name: photos
+      label: Photos
+      label_singular: photo
+      widget: list
+      summary: '{{fields.image}} {{fields.legende}}'
+      fields:
+      - name: image
+        label: Photo
+        widget: image
+      - name: legende
+        label: Légende (facultatif)
+        widget: string
+        required: false
+      collapsed: true
+      add_to_top: true
+  format: yml
