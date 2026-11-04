@@ -5,6 +5,10 @@ layout: page.njk
 ordre: 6
 afficher_galerie: true
 ---
+## Les photos de l’A.G. 2026
+
+[AG 2026](https://photos.app.goo.gl/hYUDgqHmbvmDmrbi8)
+
 ## Les photos de l’A.G. 2025
 
 [AG 2025](https://photos.app.goo.gl/2g4ppBxnFUTBYQMV7)
