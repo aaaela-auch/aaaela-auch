@@ -1,8 +1,8 @@
 ---
-title: Evènements
+title: Evénements
 permalink: evenements.html
-ordre: 7
 layout: page.njk
+ordre: 7
 ---
 ## ASSEMBLEE GENERALE DU 1 SEPTEMBRE 2024
 
