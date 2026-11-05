@@ -24,7 +24,7 @@ Christian ELORZA
 
 **Membres** :
 
-OlivierCAPERAN
+Olivier CAPERAN
 
  Henri BARBE
 
