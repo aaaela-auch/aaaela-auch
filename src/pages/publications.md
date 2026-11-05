@@ -36,7 +36,7 @@ Sorti fin août 2015, le livre est en vente au prix de 15 euros. On peut le trou
 Il résulte d’un important travail rédactionnel et de recherches d’Hervé Alvado et de Jean-Claude Baurens. A noter l’établissement de partenariats fructueux établis avec plusieurs Lycées dont Louis Barthou à Pau, Henri Poincaré à Nancy et Massena à Nice dans lesquels certains élèves disparus avaient poursuivi leurCarrière.\
 Après une présentation historique détaillée du monument qui se trouve dans la cour d’honneur de l’établissement, on découvre le parcours des anciens élèves morts au champ d’honneur. Les dernières pages sont consacrées à ceux qui sont tombés au cours de la Seconde Guerre Mondiale, puis en Indochine et en Algérie.
 
-## **Outre le mémorial, d’autres anciens élèves membres de l’Amicale ont élaboré des ouvrages :**
+# **Outre le mémorial, d’autres anciens élèves membres de l’Amicale ont élaboré des ouvrages :**
 
 **Ouvrages sortis en 2015 :**
 André Daguin – *Un pour tous*, Editions du Cèdre, Groupe La dépêche du Midi. Coll.Petit Illustré
