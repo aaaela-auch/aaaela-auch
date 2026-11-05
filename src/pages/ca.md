@@ -20,9 +20,11 @@ Christian ELORZA
 
 **Secrétaire Adjoint** : Italo SCARAVETTI
 
-**Trésorier** : André MAILHE
+**Trésorier** : Jean-JacquesBONO
 
 **Membres** :
+
+OlivierCAPERAN
 
  Henri BARBE
 
@@ -37,7 +39,5 @@ Marc CELLIER
 Pierre ESCORSAC
 
 Pierre FORTIN
-
-Jean-Jacques BONO
 
 Michel HEULOT
