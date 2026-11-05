@@ -316,3 +316,81 @@ collections:
       collapsed: true
       add_to_top: true
   format: yml
+- name: entete
+  label: "🧭 Menu et en-tête"
+  description: "Menu, boutons, nom du site, logo et liens du bas de page."
+  editor:
+    preview: false
+  files:
+  - name: menu
+    label: "Menu et en-tête"
+    file: src/_data/menu.yml
+    fields:
+      - {name: nom_site, label: "Nom du site (à côté du logo)", widget: string}
+      - {name: sous_titre, label: "Sous-titre (sous le nom)", widget: text, hint: "Un retour à la ligne ici = un retour à la ligne sur le site."}
+      - {name: logo, label: "Logo", widget: image}
+      - name: entrees
+        label: "Entrées du menu"
+        widget: list
+        hint: "Ajoutez, supprimez ou faites glisser les entrées pour changer l’ordre."
+        summary: "{{fields.libelle}}"
+        fields:
+          - {name: libelle, label: "Texte affiché", widget: string}
+          - name: lien
+            label: "Page visée"
+            widget: select
+            options:
+          - {label: "Accueil", value: "index.html"}
+          - {label: "L'Association", value: "association.html"}
+          - {label: "Publications", value: "publications.html"}
+          - {label: "Anciens Présidents", value: "presidents.html"}
+          - {label: "CA", value: "ca.html"}
+          - {label: "Les Statuts", value: "statuts.html"}
+          - {label: "Photos", value: "photos.html"}
+          - {label: "Evènements", value: "evenements.html"}
+          - {label: "Actualités", value: "actualites.html"}
+          - {label: "Contact / adhésion", value: "adhesion.html"}
+      - name: boutons
+        label: "Boutons en haut à droite"
+        widget: list
+        hint: "Les boutons encadrés à côté du logo."
+        summary: "{{fields.libelle}}"
+        fields:
+          - {name: libelle, label: "Texte affiché", widget: string}
+          - name: lien
+            label: "Page visée"
+            widget: select
+            options:
+          - {label: "Accueil", value: "index.html"}
+          - {label: "L'Association", value: "association.html"}
+          - {label: "Publications", value: "publications.html"}
+          - {label: "Anciens Présidents", value: "presidents.html"}
+          - {label: "CA", value: "ca.html"}
+          - {label: "Les Statuts", value: "statuts.html"}
+          - {label: "Photos", value: "photos.html"}
+          - {label: "Evènements", value: "evenements.html"}
+          - {label: "Actualités", value: "actualites.html"}
+          - {label: "Contact / adhésion", value: "adhesion.html"}
+      - name: liens_bas_de_page
+        label: "Liens du bas de page"
+        widget: list
+        hint: "Colonne « Liens » du pied de page."
+        summary: "{{fields.libelle}}"
+        fields:
+          - {name: libelle, label: "Texte affiché", widget: string}
+          - name: lien
+            label: "Page visée"
+            widget: select
+            options:
+          - {label: "Accueil", value: "index.html"}
+          - {label: "L'Association", value: "association.html"}
+          - {label: "Publications", value: "publications.html"}
+          - {label: "Anciens Présidents", value: "presidents.html"}
+          - {label: "CA", value: "ca.html"}
+          - {label: "Les Statuts", value: "statuts.html"}
+          - {label: "Photos", value: "photos.html"}
+          - {label: "Evènements", value: "evenements.html"}
+          - {label: "Actualités", value: "actualites.html"}
+          - {label: "Contact / adhésion", value: "adhesion.html"}
+      - {name: logo_bas_de_page_texte, label: "Texte sous le logo du bas de page", widget: string}
+      - {name: copyright, label: "Ligne tout en bas", widget: string}

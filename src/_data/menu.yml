@@ -1,0 +1,40 @@
+nom_site: AAAELA
+sous_titre: |-
+  Amicale des Anciens Élèves
+  du Lycée ou du Collège Salinis d'Auch
+logo: /img/logoaaaela.jpg
+logo_bas_de_page_texte: Depuis 1893
+entrees:
+  - libelle: Accueil
+    lien: index.html
+  - libelle: L'Association
+    lien: association.html
+  - libelle: Publications
+    lien: publications.html
+  - libelle: Anciens Présidents
+    lien: presidents.html
+  - libelle: CA
+    lien: ca.html
+  - libelle: Les Statuts
+    lien: statuts.html
+  - libelle: Photos
+    lien: photos.html
+  - libelle: Evènements
+    lien: evenements.html
+  - libelle: Actualités
+    lien: actualites.html
+  - libelle: CONTACTEZ-NOUS
+    lien: adhesion.html
+boutons:
+  - libelle: Publications
+    lien: publications.html
+  - libelle: CONTACTEZ-NOUS
+    lien: adhesion.html
+liens_bas_de_page:
+  - libelle: Photos
+    lien: photos.html
+  - libelle: Les Statuts
+    lien: statuts.html
+  - libelle: Evènements
+    lien: evenements.html
+copyright: © 2026 · Amicale des Anciens Élèves du Lycée d'Auch
