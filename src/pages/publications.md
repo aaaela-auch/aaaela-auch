@@ -26,11 +26,13 @@ Les commandes sont à adresser au trésorier :
 *Jean-Jacques BONO – 21 rue Philadelphe de Gerdre - 31300 Toulouse*
 accompagnées d’un chèque de 28 euros (plus éventuellement 10 euros de port) rédigé à l’ordre de l’Association Amicale des Anciens élèves du Lycée d’Auch**.**
 
-**Le Mémorial du Lycée d'Auch**
+
+
+# **Le Mémorial du Lycée d'Auch**
 
 ![](/img/memorial.jpg)
 
-Sorti fin  août 2015, le livre est en vente au prix de 15 euros. On peut le trouver à Auch à la Maison de la Presse, rue Alsace. L’acquisition peut également se faire directement auprès de l’Amicale (contact : **herve.alvado@orange.fr** ou **m.alletz@wanadoo.fr**). En cas d’envoi par la poste, il faut prévoir 3 euros de port.Cet ouvrage, de 112 pages, abondamment illustré, a été labellisé par la Mission du Centenaire de la Première Guerre Mondiale. C’est la reconnaissanc d’une excellente qualité.Après une présentation historique détaillée du monument qui se trouve dans la cour d’honneur de l’établissement, on découvre le parcours des anciens élèves morts au champ d’honneur. Les dernières pages sont consacrées à ceux qui sont tombés au cours de la Seconde Guerre Mondiale, puis en Indochine et en Algérie..
+Sorti fin  août 2015, le livre est en vente au prix de 15 euros. On peut le trouver à Auch à la Maison de la Presse, rue Alsace. L’acquisition peut également se faire directement auprès de l’Amicale (contact : **herve.alvado@orange.fr** ou **m.alletz@wanadoo.fr**). En cas d’envoi par la poste, il faut prévoir 5 euros de port.Cet ouvrage, de 112 pages, abondamment illustré, a été labellisé par la Mission du Centenaire de la Première Guerre Mondiale. C’est la reconnaissanc d’une excellente qualité.Après une présentation historique détaillée du monument qui se trouve dans la cour d’honneur de l’établissement, on découvre le parcours des anciens élèves morts au champ d’honneur. Les dernières pages sont consacrées à ceux qui sont tombés au cours de la Seconde Guerre Mondiale, puis en Indochine et en Algérie..
 
 **Outre le mémorial, d’autres anciens élèves membres de l’Amicale ont élaboré des ouvrages qui sont depuis 2015 :**
 
