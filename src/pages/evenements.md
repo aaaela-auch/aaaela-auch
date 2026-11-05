@@ -8,51 +8,33 @@ ordre: 7
 
 Comme chaque année, Maurice Alletz a ouvert l’AG de notre Association avec des mots de bienvenue, et une pensée pour nos camarades récemment disparus. Il a aussi innové en annonçant la nomination d’un nouveau principal qui a toutes les chances de rester - ce qui met fin au cortège des principaux provisoires que nous avons connu...
 
-Invité par le Président à notre AGet à notre repas, le nouveau Chef d’établissement, M. Bernard nous a annoncéqu’il comptait rester quatre ans au Collège Salinis, c’est-à dire jusqu’à sondépart à la retraite.
+Invité par le Président à notre AG et à notre repas, le nouveau Chef d’établissement, M. Bernard nous a annoncé qu’il comptait rester quatre ans au Collège Salinis, c’est-à dire jusqu’à son départ à la retraite.
 
- 
+**Rapport d’activité :**
 
-Rapport d’activité :
-
- 
-
-Le Conseil d’Administration s’estréuni chez le Président le 14 mai 2025.
-
-Etaient présents : Alletz,Alvado, Bono, Briscadieu, Escorsac, Fortin, Heulot, Labedan, Mailhe,Scaravetti.
-
+Le Conseil d’Administration s’est réuni chez le Président le 14 mai 2025.\
+Etaient présents : Alletz, Alvado, Bono, Briscadieu, Escorsac, Fortin, Heulot, Labedan, Mailhe, Scaravetti.\
 Etaient excusés : Baurens,Poli, Saint-Ygnan.
 
- 
+Le CA a eu pour tâche essentielle de fixer la date de l’Assemblée générale (ce sera le 7 septembre) d’évoquer la situation financière et le lieu de notre banquet annuel.
 
-Le CA a eu pour tâche essentiellede fixer la date de l’Assemblée générale (ce sera le 7 septembre) d’évoquer lasituation financière et le lieu de notre banquet annuel.
+André Mailhe, notre trésorier, rappelle notre situation financière. Sur 123 cotisations attendues, 100 seulement ont été perçues. Un petit progrès dans l’envoi des chèques, mais certains adhérents ne sont toujours pas pressés… Il propose l’exclusion de sept anciens adhérents qui n’ont pas donné signe de vie depuis plusieurs années. Rappelons aussi que l’on n’envoie plus le Bulletin à ceux de nos camarades qui ne sont plus à jour de leur cotisation, mais que leur nom figurera toujours dans l’annuaire.
 
- 
+Le banquet de l’année dernière, peu apprécié, a été longuement commenté et sur un ton assez vif - ce qui est inhabituel dans nos réunions… L’an dernier nous avions été confinés dans deux petites salles peu commodes, ce qui a eu pour conséquence de priver plusieurs de nos camarades du discours de notre Président de séance, en l’occurrence Italo Scaravetti. 
 
-André Mailhe, notre trésorier,rappelle notre situation financière. Sur 123 cotisations attendues, 100seulement ont été perçues. Un petit progrès dans l’envoi des chèques, maiscertains adhérents ne sont toujours pas pressés… Il propose l’exclusion de septanciens adhérents qui n’ont pas donné signe de vie depuis plusieurs années.Rappelons aussi que l’on n’envoie plus le Bulletin à ceux de nos camarades quine sont plus à jour de leur cotisation, mais que leur nom figurera toujoursdans l’annuaire.
+De la discussion est née une solution qui éviterait un tel naufrage. Il s’agirait de déjeuner à *La Cantine*, prolongement de l’*Hôtel de France*, installée dans l’ancien collège Sadi-Carnot. Cette solution a un double intérêt : nous aurions le même menu qu’en haute ville, et nous serions les seuls occupants des lieux… Le Président a été chargé de négocier avec la famille Casassus. C’est ce qui a été programmé pour aujourd’hui et qui, nous l’espérons, ne vous décevra pas.  
 
- 
+Notre Bulletin continue son bonhomme de chemin. Il nous donne satisfaction. Et peut-être avons-nous un peu de chance, vu que souvent nous sommes, si on peut dire, sauvé par le gong. En effet, des adhérents nous proposent des textes inattendus (Schmitt, Trenque,Szelechowska, Salerno)…  N’hésitez pas à vous manifester !
 
-Le banquet de l’année dernière,peu apprécié, a été longuement commenté et sur un ton assez vif - ce qui estinhabituel dans nos réunions… L’an dernier nous avions été confinés dans deuxpetites salles peu commodes, ce qui a eu pour conséquence de priver plusieurs denos camarades du discours de notre Président de séance, en l’occurrence ItaloScaravetti. 
-
-De la discussion est née unesolution qui éviterait un tel naufrage. Il s’agirait de déjeuner à *Lacantine*, prolongement de l’*Hôtel de France*, installée dans l’anciencollège Sadi-Carnot. Cette solution a un double intérêt : nous aurions lemême menu qu’en haute ville, et nous serions les seuls occupants des lieux… LePrésident a été chargé de négocier avec la famille Casassus. C’est ce qui a étéprogrammé pour aujourd’hui et qui, nous l’espérons, ne vous décevra pas.  
-
- 
-
-Notre Bulletin continue sonbonhomme de chemin. Il nous donne satisfaction. Et peut-être avons-nous un peude chance, vu que souvent nous sommes, si on peut dire, sauvé par le gong. Eneffet, des adhérents nous proposent des textes inattendus (Schmitt, Trenque,Szelechowska, Salerno)…  N’hésitez pas àvous manifester !
-
-Je rappelle que nous avions lancél’idée d’évoquer le mois de mai 1968 au Lycée, idée qui avait l’aird’intéresser pas mal de camarades mais qui, jusqu’ici, n’a pas été exploitée.Si certains avaient quelques souvenirs, il est toujours temps de les coucherpar écrit. Vos productions seront bien accueillies !
+Je rappelle que nous avions lancé l’idée d’évoquer le mois de mai 1968 au Lycée, idée qui avait l’air d’intéresser pas mal de camarades mais qui, jusqu’ici, n’a pas été exploitée. Si certains avaient quelques souvenirs, il est toujours temps de les coucher par écrit. Vos productions seront bien accueillies !
 
                                                                  Hervé ALVADO
 
- 
+**Nomination d’un nouveau trésorier en 2026**
 
-Nomination d’un nouveau trésorier en 2026
+Il se trouve que notre ami André Mailhe connait depuis quelques temps de sérieux ennuis de santé. En conséquence, il a manifesté le souhait de se mettre en retrait ce qui nous a conduit à rechercher un camarade pour lui succéder dans la fonction de trésorier qu’il occupait depuis plus de 12 ans avec sérieux et dévouement.
 
- 
-
-Il se trouve que notre ami AndréMailhe connait depuis quelques temps de sérieux ennuis de santé. Enconséquence, il a manifesté le souhait de se mettre en retrait ce qui nous aconduit à rechercher un camarade pour lui succéder dans la fonction de trésorierqu’il occupait depuis plus de 12 ans avec sérieux et dévouement.
-
-Après consultations, Jean-JacquesBono, déjà membre du Conseil d’Administration, a bien voulu accepter d’assumercette fonction essentielle dans le fonctionnement de l’association.
+Après consultations, Jean-Jacques Bono, déjà membre du Conseil d’Administration, a bien voulu accepter d’assumer cette fonction essentielle dans le fonctionnement de l’association.
 
 
 
@@ -64,8 +46,8 @@ Après consultations, Jean-JacquesBono, déjà membre du Conseil d’Administrat
 
 **Conseil d’Administration  de l’Association**
 
-                                    La principale décision qui a été prise, a été de fermer le compte de trésorerie de l’Association des jeunes filles de Carnot, inactif depuis l’épidémie de Covid. Les sommes récupérées ont été versées à l’actif de notre trésorerie et au compte de l’association de Carnot.
-            Nous avons parlé aussi des difficultés qu’éprouve notre trésorier et des moyens de remédier à ces difficultés. Une date-butoir pour le paiement des cotisations a été mise en place.
+La principale décision qui a été prise, a été de fermer le compte de trésorerie de l’Association des jeunes filles de Carnot, inactif depuis l’épidémie de Covid. Les sommes récupérées ont été versées à l’actif de notre trésorerie et au compte de l’association de Carnot.
+Nous avons parlé aussi des difficultés qu’éprouve notre trésorier et des moyens de remédier à ces difficultés. Une date-butoir pour le paiement des cotisations a été mise en place.
 
 **Renouvellement des membres du CA**
 
