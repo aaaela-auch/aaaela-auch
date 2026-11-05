@@ -32,13 +32,31 @@ accompagnées d’un chèque de 28 euros (plus éventuellement 10 euros de port)
 
 ![](/img/memorial.jpg)
 
-Sorti fin  août 2015, le livre est en vente au prix de 15 euros. On peut le trouver à Auch à la Maison de la Presse, rue Alsace. L’acquisition peut également se faire directement auprès de l’Amicale (contact : **herve.alvado@orange.fr** ou **m.alletz@wanadoo.fr**). En cas d’envoi par la poste, il faut prévoir 5 euros de port.Cet ouvrage, de 112 pages, abondamment illustré, a été labellisé par la Mission du Centenaire de la Première Guerre Mondiale. C’est la reconnaissanc d’une excellente qualité.Après une présentation historique détaillée du monument qui se trouve dans la cour d’honneur de l’établissement, on découvre le parcours des anciens élèves morts au champ d’honneur. Les dernières pages sont consacrées à ceux qui sont tombés au cours de la Seconde Guerre Mondiale, puis en Indochine et en Algérie..
+Sorti fin août 2015, le livre est en vente au prix de 15 euros. On peut le trouver à Auch à la Maison de la Presse, rue Alsace. L’acquisition peut également se faire directement auprès de l’Amicale (contact : **herve.alvado@orange.fr** ou **m.alletz@wanadoo.fr**). En cas d’envoi par la poste, il faut prévoir 5 euros de port. Cet ouvrage, de 112 pages, abondamment illustré, a été labellisé par la Mission du Centenaire de la Première Guerre Mondiale. C’est la reconnaissance d’une excellente qualité. \
+Il résulte d’un important travail rédactionnel et de recherches d’Hervé Alvado et de Jean-Claude Baurens. A noter l’établissement de partenariats fructueux établis avec plusieurs Lycées dont Louis Barthou à Pau, Henri Poincaré à Nancy et Massena à Nice dans lesquels certains élèves disparus avaient poursuivi leurCarrière.\
+Après une présentation historique détaillée du monument qui se trouve dans la cour d’honneur de l’établissement, on découvre le parcours des anciens élèves morts au champ d’honneur. Les dernières pages sont consacrées à ceux qui sont tombés au cours de la Seconde Guerre Mondiale, puis en Indochine et en Algérie.
 
-**Outre le mémorial, d’autres anciens élèves membres de l’Amicale ont élaboré des ouvrages qui sont depuis 2015 :**
+## **Outre le mémorial, d’autres anciens élèves membres de l’Amicale ont élaboré des ouvrages :**
 
 **Ouvrages sortis en 2015 :**
 André Daguin – *Un pour tous*, Editions du Cèdre, Groupe La dépêche du Midi. Coll.Petit Illustré
 Jacques Mondin  - *La mort Histoire  & Cultures* (vol.1), Edition UICG.
+
+**Hervé Alvado**
+
+2004– Cinq semaines dans la vie de Jules, L’Harmattan.
+
+2004- Retour à Séviac, Les deux encres.
+
+2007– Le trésor d’Eauze, Archilvolis Editions.
+
+**Jacques Mondin** 
+
+2011– les moralistes, Editions UICG.
+
+2012– la pensée antique, Editions UICG.
+
+2014– la mort, histoire et culture, Editions UICG.
 
 **Ouvrages sortis en 2016 :**
 Jean-Charles Nanteuil – *Les Jumelages Improbables*, Edilivre.
@@ -59,8 +77,6 @@ André DAGUIN - Michel CASSE  - Cosmologie culinaire (avec les recettes du Chef
 
 Paul TRENQUE – Mortel destin.
 Roman portant sur la malheureuse vie de Françoise Trenque, une parentèle de notre ami Paul qui, il y a deux siècles, a défrayé la chronique dans le Petit Journal du Gers et dans de nombreux journaux français et étrangers. Roman disponible à la librairie Page à Page, avenue d’Alsace à Auch. (15€). Envoi postal possible.
-
-**Chaque année est publié un Bulletin d'environ cinquante pages qui renseigne les adhérents sur la vie et l'activité de leur Association rapports moral et financier, préoccupations et projets... Ce Bulletin est évidemment ouvert à tous. On peut y évoquer certains souvenirs, lancer des appels de recherche, donner son opinion dans le courrier des lecteurs, faire publier d'anciennes photos de classe etc.**
 
 ![](/img/nouveaux-bulletins-mini.jpg)
 
