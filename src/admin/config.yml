@@ -315,7 +315,6 @@ collections:
         required: false
       collapsed: true
       add_to_top: true
-  format: yml
 - name: entete
   label: "🧭 Menu et en-tête"
   description: "Menu, boutons, nom du site, logo et liens du bas de page."
@@ -340,16 +339,16 @@ collections:
             label: "Page visée"
             widget: select
             options:
-          - {label: "Accueil", value: "index.html"}
-          - {label: "L'Association", value: "association.html"}
-          - {label: "Publications", value: "publications.html"}
-          - {label: "Anciens Présidents", value: "presidents.html"}
-          - {label: "CA", value: "ca.html"}
-          - {label: "Les Statuts", value: "statuts.html"}
-          - {label: "Photos", value: "photos.html"}
-          - {label: "Evènements", value: "evenements.html"}
-          - {label: "Actualités", value: "actualites.html"}
-          - {label: "Contact / adhésion", value: "adhesion.html"}
+            - {label: "Accueil", value: "index.html"}
+            - {label: "L'Association", value: "association.html"}
+            - {label: "Publications", value: "publications.html"}
+            - {label: "Anciens Présidents", value: "presidents.html"}
+            - {label: "CA", value: "ca.html"}
+            - {label: "Les Statuts", value: "statuts.html"}
+            - {label: "Photos", value: "photos.html"}
+            - {label: "Evènements", value: "evenements.html"}
+            - {label: "Actualités", value: "actualites.html"}
+            - {label: "Contact / adhésion", value: "adhesion.html"}
       - name: boutons
         label: "Boutons en haut à droite"
         widget: list
@@ -361,16 +360,16 @@ collections:
             label: "Page visée"
             widget: select
             options:
-          - {label: "Accueil", value: "index.html"}
-          - {label: "L'Association", value: "association.html"}
-          - {label: "Publications", value: "publications.html"}
-          - {label: "Anciens Présidents", value: "presidents.html"}
-          - {label: "CA", value: "ca.html"}
-          - {label: "Les Statuts", value: "statuts.html"}
-          - {label: "Photos", value: "photos.html"}
-          - {label: "Evènements", value: "evenements.html"}
-          - {label: "Actualités", value: "actualites.html"}
-          - {label: "Contact / adhésion", value: "adhesion.html"}
+            - {label: "Accueil", value: "index.html"}
+            - {label: "L'Association", value: "association.html"}
+            - {label: "Publications", value: "publications.html"}
+            - {label: "Anciens Présidents", value: "presidents.html"}
+            - {label: "CA", value: "ca.html"}
+            - {label: "Les Statuts", value: "statuts.html"}
+            - {label: "Photos", value: "photos.html"}
+            - {label: "Evènements", value: "evenements.html"}
+            - {label: "Actualités", value: "actualites.html"}
+            - {label: "Contact / adhésion", value: "adhesion.html"}
       - name: liens_bas_de_page
         label: "Liens du bas de page"
         widget: list
@@ -382,15 +381,15 @@ collections:
             label: "Page visée"
             widget: select
             options:
-          - {label: "Accueil", value: "index.html"}
-          - {label: "L'Association", value: "association.html"}
-          - {label: "Publications", value: "publications.html"}
-          - {label: "Anciens Présidents", value: "presidents.html"}
-          - {label: "CA", value: "ca.html"}
-          - {label: "Les Statuts", value: "statuts.html"}
-          - {label: "Photos", value: "photos.html"}
-          - {label: "Evènements", value: "evenements.html"}
-          - {label: "Actualités", value: "actualites.html"}
-          - {label: "Contact / adhésion", value: "adhesion.html"}
+            - {label: "Accueil", value: "index.html"}
+            - {label: "L'Association", value: "association.html"}
+            - {label: "Publications", value: "publications.html"}
+            - {label: "Anciens Présidents", value: "presidents.html"}
+            - {label: "CA", value: "ca.html"}
+            - {label: "Les Statuts", value: "statuts.html"}
+            - {label: "Photos", value: "photos.html"}
+            - {label: "Evènements", value: "evenements.html"}
+            - {label: "Actualités", value: "actualites.html"}
+            - {label: "Contact / adhésion", value: "adhesion.html"}
       - {name: logo_bas_de_page_texte, label: "Texte sous le logo du bas de page", widget: string}
       - {name: copyright, label: "Ligne tout en bas", widget: string}
