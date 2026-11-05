@@ -3,7 +3,6 @@ sous_titre: |-
   Amicale des Anciens Élèves
   du Lycée ou du Collège Salinis d'Auch
 logo: /img/logoaaaela.jpg
-logo_bas_de_page_texte: Depuis 1893
 entrees:
   - libelle: Accueil
     lien: index.html
@@ -19,7 +18,7 @@ entrees:
     lien: statuts.html
   - libelle: Photos
     lien: photos.html
-  - libelle: Evènements
+  - libelle: Evénements
     lien: evenements.html
   - libelle: Actualités
     lien: actualites.html
@@ -37,4 +36,5 @@ liens_bas_de_page:
     lien: statuts.html
   - libelle: Evènements
     lien: evenements.html
+logo_bas_de_page_texte: Depuis 1893
 copyright: © 2026 · Amicale des Anciens Élèves du Lycée d'Auch
