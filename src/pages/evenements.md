@@ -39,4 +39,4 @@ Cette année, le Bulletin a été prêt assez tôt. Nous avons pu traiter un suj
 
 Pour cette année, nous n’avons pas proposé de sujet collectif, mais nous faisons confiance, comme toujours, à l’imagination de nos adhérents.
 
-\     **H. ALVADO**
+**H. ALVADO**
