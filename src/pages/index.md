@@ -6,7 +6,7 @@ ordre: 0
 ---
 ## Le Lycée
 
-Cette appellation demande quelques précisions : de quel lycée d'Auch peut-il s'agir ? Il faut savoir que durant de longues année, il n'y eut qu'un lycée dans la ville, le Lycée d'Etat classique et moderne de garçons. Il y avait bien sur les bords du Gers un établissement qui préparait les jeunes filles au baccalauréat de philosophie. Cet enseignement du second cycle aurait pu lui conférer l’appellation « Lycée » mais, à notre connaissance, cet établissement s’est toujours appelé « Collège »
+Cette appellation demande quelques précisions : de quel lycée d'Auch peut-il s'agir ? Il faut savoir que durant de longues année, il n'y eut qu'un lycée dans la ville, le Lycée d'Etat classique et moderne de garçons. Il y avait bien sur les bords du Gers un établissement qui préparait les jeunes filles au baccalauréat de philosophie. Cet enseignement du second cycle aurait pu lui conférer l’appellation « Lycée » mais, à notre connaissance, cet établissement s’est toujours appelé « Collège ».
 En 1971 ce " Lycée d'Auch " fut supprimé, ou plutôt continua d'exister mais amputé de son second cycle, et remplacé par le " Collège Salinis " qui accueillait les élèves de la sixième à la troisième.
 
 ### **Un peu d'histoire…**
