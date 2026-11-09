@@ -52,7 +52,8 @@ Après une présentation historique détaillée du monument qui se trouve dans l
 
 2014– la mort, histoire et culture, Editions UICG.
 
-**Ouvrages sortis en 2015 :**André Daguin – *Un pour tous*, Editions du Cèdre, Groupe La dépêche du Midi. Coll.Petit IllustréJacques Mondin  - *La mort Histoire  & Cultures* (vol.1), Edition UICG.
+**Ouvrages sortis en 2015 :** \
+André Daguin – *Un pour tous*, Editions du Cèdre, Groupe La dépêche du Midi. Coll.Petit IllustréJacques Mondin  - *La mort Histoire  & Cultures* (vol.1), Edition UICG.
 
 **Ouvrages sortis en 2016 :**
 Jean-Charles Nanteuil – *Les Jumelages Improbables*, Edilivre.
@@ -73,8 +74,6 @@ André DAGUIN - Michel CASSE  - Cosmologie culinaire (avec les recettes du Chef
 
 Paul TRENQUE – Mortel destin.
 Roman portant sur la malheureuse vie de Françoise Trenque, une parentèle de notre ami Paul qui, il y a deux siècles, a défrayé la chronique dans le Petit Journal du Gers et dans de nombreux journaux français et étrangers. Roman disponible à la librairie Page à Page, avenue d’Alsace à Auch. (15€). Envoi postal possible.
-
-
 
 ## Depuis 2008, les nouveaux bulletins sont réalisés en quadrichromie ce qui apporte un agrément supplémentaire par la présence des photos couleur
 
