@@ -6,9 +6,9 @@ ordre: 7
 ---
 # AG du 6 septembre 2026
 
-\    Après des mots de bienvenue et la traditionnelle pensée à nos camarades récemment disparus, le Président ouvre la séance, en annonçant que l’année qui vient de s’écouler a été moins paisible qu’on ne pouvait l’espérer, à cause du décès de notre Trésorier et du départ inattendu du Principal.\
-         André Mailhe s’occupait de nos finances depuis 2014, année où il avait succédé à Gérard Campardon. Nous n’oublierons pas ses comptes rendus précis et humoristiques.\
-         Quant à M. Bernard, le sympathique Principal qui souhaitait rester à Auch durant quatre ans (jusqu’à sa retraite), son départ nous a beaucoup surpris. Il nous a paru inexplicable (et nous n’avons pas cherché à l’expliquer).
+Après des mots de bienvenue et la traditionnelle pensée à nos camarades récemment disparus, le Président ouvre la séance, en annonçant que l’année qui vient de s’écouler a été moins paisible qu’on ne pouvait l’espérer, à cause du décès de notre Trésorier et du départ inattendu du Principal.\
+André Mailhe s’occupait de nos finances depuis 2014, année où il avait succédé à Gérard Campardon. Nous n’oublierons pas ses comptes rendus précis et humoristiques.\
+Quant à M. Bernard, le sympathique Principal qui souhaitait rester à Auch durant quatre ans (jusqu’à sa retraite), son départ nous a beaucoup surpris. Il nous a paru inexplicable (et nous n’avons pas cherché à l’expliquer).
 
 ### Rapport d’activité
 
