@@ -26,8 +26,6 @@ Les commandes sont à adresser au trésorier :
 *Jean-Jacques BONO – 21 rue Philadelphe de Gerdre - 31300 Toulouse*
 accompagnées d’un chèque de 28 euros (plus éventuellement 10 euros de port) rédigé à l’ordre de l’Association Amicale des Anciens élèves du Lycée d’Auch**.**
 
-
-
 # **Le Mémorial du Lycée d'Auch**
 
 ![](/img/memorial.jpg)
@@ -37,10 +35,6 @@ Il résulte d’un important travail rédactionnel et de recherches d’Hervé A
 Après une présentation historique détaillée du monument qui se trouve dans la cour d’honneur de l’établissement, on découvre le parcours des anciens élèves morts au champ d’honneur. Les dernières pages sont consacrées à ceux qui sont tombés au cours de la Seconde Guerre Mondiale, puis en Indochine et en Algérie.
 
 # **Outre le mémorial, d’autres anciens élèves membres de l’Amicale ont élaboré des ouvrages :**
-
-**Ouvrages sortis en 2015 :**
-André Daguin – *Un pour tous*, Editions du Cèdre, Groupe La dépêche du Midi. Coll.Petit Illustré
-Jacques Mondin  - *La mort Histoire  & Cultures* (vol.1), Edition UICG.
 
 **Hervé Alvado**
 
@@ -57,6 +51,8 @@ Jacques Mondin  - *La mort Histoire  & Cultures* (vol.1), Edition UICG.
 2012– la pensée antique, Editions UICG.
 
 2014– la mort, histoire et culture, Editions UICG.
+
+**Ouvrages sortis en 2015 :**André Daguin – *Un pour tous*, Editions du Cèdre, Groupe La dépêche du Midi. Coll.Petit IllustréJacques Mondin  - *La mort Histoire  & Cultures* (vol.1), Edition UICG.
 
 **Ouvrages sortis en 2016 :**
 Jean-Charles Nanteuil – *Les Jumelages Improbables*, Edilivre.
@@ -78,19 +74,8 @@ André DAGUIN - Michel CASSE  - Cosmologie culinaire (avec les recettes du Chef
 Paul TRENQUE – Mortel destin.
 Roman portant sur la malheureuse vie de Françoise Trenque, une parentèle de notre ami Paul qui, il y a deux siècles, a défrayé la chronique dans le Petit Journal du Gers et dans de nombreux journaux français et étrangers. Roman disponible à la librairie Page à Page, avenue d’Alsace à Auch. (15€). Envoi postal possible.
 
+
+
+## Depuis 2008, les nouveaux bulletins sont réalisés en quadrichromie ce qui apporte un agrément supplémentaire par la présence des photos couleur
+
 ![](/img/nouveaux-bulletins-mini.jpg)
-
-**Depuis 2008, les nouveaux bulletins sont réalisés en quadrichromie ce qui apporte un agrément supplémentaire par la présence des photos couleur**
-
-Le Lycée d'Auch depuis 1545
-
-C'est un bel ouvrage de 176 pages de grand format, avec une couverture toilée ornée d'un fer à dorer, et illustré de plus de cent photos en noir et blanc et en couleur. Il comprend les sept chapitres suivants, écrits par d'anciens élèves :
-
-* Petite histoire du lycée d'Auch (H. Alvado)
-* L'ère des Jésuites au collège d'Auch (J. Le Guillou)
-* Evolutions de l'enseignement au lycée d'Auch : aperçus et témoignage (F Duplan)
-* De viris illustribus (G. Coste)
-* Le lycée revisité par l'Association des anciens élèves (P. Poli)
-* La chapelle des Jésuites (J. Lapart)
-* Les anciens élèves morts au champ d'honneur
-* Guerre de 14-18 (H. Alvado) - Guerres de 39-45, Indochine, Afrique du Nord (J. Massat).
