@@ -43,9 +43,9 @@ Pour cette année, nous n’avons pas proposé de sujet collectif, mais nous fai
 
 
 
-## ASSEMBLEE GENERALE DU 1 SEPTEMBRE 2024
 
- 
+
+## ASSEMBLEE GENERALE DU 1 SEPTEMBRE 2024
 
 **Rapport d’activité**
 
@@ -67,7 +67,7 @@ Cinq membres sortants ont été réélus : H. Barbé, S. Briscadieu, C. Elorza,
 **Hommage à Jean-Luc Lagardère**
 
             En réponse à une invitation du Président de l’Amicale des retraités de Matra Toulouse, nous avons participé le 8 juin à Aubiet à un hommage rendu à Jean-Louis Lagardère, ce grand capitaine d’industrie qui a été, ainsi que son père, élève du lycée d’Auch avant de regagner, à Paris, le lycée St-Louis et d’entrer à Sup’élec.
-                       
+
 **Notre site aaaela.free.fr**
 
             Grâce à Eric Nanteuil, nous avons pu mettre à jour notre site. Nouveaux textes, nouvelles photos.
